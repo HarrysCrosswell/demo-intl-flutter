@@ -1,0 +1,127 @@
+{
+  "@@locale": "en",
+  "appTitle": "Multilingual Flutter App",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+
+  "navigationHome": "Home",
+  "@navigationHome": {
+    "description": "Navigation menu item for home"
+  },
+
+  "navigationTeam": "Our Team",
+  "@navigationTeam": {
+    "description": "Navigation menu item for team"
+  },
+
+  "navigationPricing": "Pricing",
+  "@navigationPricing": {
+    "description": "Navigation menu item for pricing"
+  },
+
+  "navigationContacts": "Contacts",
+  "@navigationContacts": {
+    "description": "Navigation menu item for contacts"
+  },
+
+  "homeTitle": "Welcome to Our Company",
+  "@homeTitle": {
+    "description": "Main title on home section"
+  },
+
+  "homeSubtitle": "We provide exceptional services and solutions to help your business grow and succeed in today's competitive market.",
+  "@homeSubtitle": {
+    "description": "Subtitle on home section"
+  },
+
+  "homeCta": "Get Started",
+  "@homeCta": {
+    "description": "Call to action button text"
+  },
+
+  "teamTitle": "Our Team",
+  "@teamTitle": {
+    "description": "Team section title"
+  },
+
+  "teamCeo": "CEO & Founder",
+  "@teamCeo": {
+    "description": "CEO job title"
+  },
+
+  "teamCto": "CTO",
+  "@teamCto": {
+    "description": "CTO job title"
+  },
+
+  "teamLead": "Lead Developer",
+  "@teamLead": {
+    "description": "Lead Developer job title"
+  },
+
+  "pricingTitle": "Pricing Plans",
+  "@pricingTitle": {
+    "description": "Pricing section title"
+  },
+
+  "pricingBasic": "Basic",
+  "@pricingBasic": {
+    "description": "Basic pricing plan name"
+  },
+
+  "pricingPro": "Pro",
+  "@pricingPro": {
+    "description": "Pro pricing plan name"
+  },
+
+  "pricingEnterprise": "Enterprise",
+  "@pricingEnterprise": {
+    "description": "Enterprise pricing plan name"
+  },
+
+  "pricingMonth": "/month",
+  "@pricingMonth": {
+    "description": "Per month pricing suffix"
+  },
+
+  "pricingChoose": "Choose Plan",
+  "@pricingChoose": {
+    "description": "Choose plan button text"
+  },
+
+  "contactTitle": "Contact Us",
+  "@contactTitle": {
+    "description": "Contact section title"
+  },
+
+  "contactEmail": "Email",
+  "@contactEmail": {
+    "description": "Email field label"
+  },
+
+  "contactMessage": "Message",
+  "@contactMessage": {
+    "description": "Message field label"
+  },
+
+  "contactSend": "Send",
+  "@contactSend": {
+    "description": "Send button text"
+  },
+
+  "contactSuccess": "Message sent successfully!",
+  "@contactSuccess": {
+    "description": "Success message after form submission"
+  },
+
+  "contactEmailHint": "your@email.com",
+  "@contactEmailHint": {
+    "description": "Email field hint text"
+  },
+
+  "contactMessageHint": "Your message here...",
+  "@contactMessageHint": {
+    "description": "Message field hint text"
+  }
+}
