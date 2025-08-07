@@ -1,42 +1,42 @@
 {
-  "@@locale": "ar",
-  "appTitle": "تطبيق متعدد اللغات",
+  "@@locale": "it",
+  "appTitle": "App Flutter Multilingue",
   "@appTitle": {
     "description": "The title of the application"
   },
-  "navigationHome": "المنزل",
+  "navigationHome": "Indietro",
   "@navigationHome": {
     "description": "Navigation menu item for home"
   },
-  "navigationTeam": "فريقنا",
+  "navigationTeam": "Il Nostro Team",
   "@navigationTeam": {
     "description": "Navigation menu item for team"
   },
-  "navigationPricing": "التسعير",
+  "navigationPricing": "Prezzi",
   "@navigationPricing": {
     "description": "Navigation menu item for pricing"
   },
-  "navigationContacts": "جهات",
+  "navigationContacts": "Contatti",
   "@navigationContacts": {
     "description": "Navigation menu item for contacts"
   },
-  "homeTitle": "مرحبا بكم في شركتنا",
+  "homeTitle": "Benvenuto nella nostra azienda",
   "@homeTitle": {
     "description": "Main title on home section"
   },
-  "homeSubtitle": "نحن نقدم خدمات وحلول استثنائية لمساعدة عملك التجاري على النمو والنجاح في السوق التنافسية اليوم.",
+  "homeSubtitle": "Forniamo servizi e soluzioni eccezionali per aiutare la vostra azienda a crescere e a avere successo nel mercato competitivo di oggi.",
   "@homeSubtitle": {
     "description": "Subtitle on home section"
   },
-  "homeCta": "ابدأ",
+  "homeCta": "Per Iniziare",
   "@homeCta": {
     "description": "Call to action button text"
   },
-  "teamTitle": "فريقنا",
+  "teamTitle": "Il Nostro Team",
   "@teamTitle": {
     "description": "Team section title"
   },
-  "teamCeo": "المدير التنفيذي والمؤسس",
+  "teamCeo": "Amministratore Delegato E Fondatore",
   "@teamCeo": {
     "description": "CEO job title"
   },
@@ -44,15 +44,15 @@
   "@teamCto": {
     "description": "CTO job title"
   },
-  "teamLead": "المطور الرئيسي",
+  "teamLead": "Sviluppatore Principale",
   "@teamLead": {
     "description": "Lead Developer job title"
   },
-  "pricingTitle": "خطط الأسعار",
+  "pricingTitle": "Piani Prezzi",
   "@pricingTitle": {
     "description": "Pricing section title"
   },
-  "pricingBasic": "اساسي",
+  "pricingBasic": "Base",
   "@pricingBasic": {
     "description": "Basic pricing plan name"
   },
@@ -60,47 +60,47 @@
   "@pricingPro": {
     "description": "Pro pricing plan name"
   },
-  "pricingEnterprise": "المؤسسة",
+  "pricingEnterprise": "Impresa",
   "@pricingEnterprise": {
     "description": "Enterprise pricing plan name"
   },
-  "pricingMonth": "/ شهر",
+  "pricingMonth": "/mese",
   "@pricingMonth": {
     "description": "Per month pricing suffix"
   },
-  "pricingChoose": "اختر خطة",
+  "pricingChoose": "Scegli Un Piano",
   "@pricingChoose": {
     "description": "Choose plan button text"
   },
-  "contactTitle": "اتصل بنا",
+  "contactTitle": "Contattaci",
   "@contactTitle": {
     "description": "Contact section title"
   },
-  "contactEmail": "البريد الإلكتروني",
+  "contactEmail": "Email",
   "@contactEmail": {
     "description": "Email field label"
   },
-  "contactMessage": "رسالة",
+  "contactMessage": "Messaggio",
   "@contactMessage": {
     "description": "Message field label"
   },
-  "contactSend": "إرسال",
+  "contactSend": "Invia",
   "@contactSend": {
     "description": "Send button text"
   },
-  "contactSuccess": "تم إرسال الرسالة بنجاح!",
+  "contactSuccess": "Messaggio inviato con successo!",
   "@contactSuccess": {
     "description": "Success message after form submission"
   },
-  "contactEmailHint": "خاصتك @email.com",
+  "contactEmailHint": "your@email.com",
   "@contactEmailHint": {
     "description": "Email field hint text"
   },
-  "contactMessageHint": "رسالتك هنا...",
+  "contactMessageHint": "Il tuo messaggio qui...",
   "@contactMessageHint": {
     "description": "Message field hint text"
   },
-  "contactGreeting": "مرحبًا! أتمنى أن تقوم بعمل جيد",
+  "contactGreeting": "Ciao a voi! Spero che state andando bene",
   "@contactGreetingHint": {
     "description": "Greeting hint text"
   }

@@ -1,28 +1,107 @@
 {
   "@@locale": "fr",
-  "appTitle": "Application Flutter Multilingue",
+  "appTitle": "Application Flutter multilingue",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
   "navigationHome": "Accueil",
-  "navigationTeam": "Notre Équipe",
-  "navigationPricing": "Tarifs",
-  "navigationContacts": "Contact",
-  "homeTitle": "Bienvenue dans Notre Entreprise",
-  "homeSubtitle": "Nous fournissons des services et solutions exceptionnels pour aider votre entreprise à croître et réussir dans le marché concurrentiel d'aujourd'hui.",
+  "@navigationHome": {
+    "description": "Navigation menu item for home"
+  },
+  "navigationTeam": "Notre équipe",
+  "@navigationTeam": {
+    "description": "Navigation menu item for team"
+  },
+  "navigationPricing": "Tarification",
+  "@navigationPricing": {
+    "description": "Navigation menu item for pricing"
+  },
+  "navigationContacts": "Contacts",
+  "@navigationContacts": {
+    "description": "Navigation menu item for contacts"
+  },
+  "homeTitle": "Bienvenue dans notre entreprise",
+  "@homeTitle": {
+    "description": "Main title on home section"
+  },
+  "homeSubtitle": "Nous offrons des services et des solutions exceptionnels pour aider votre entreprise à se développer et à réussir sur le marché concurrentiel d'aujourd'hui.",
+  "@homeSubtitle": {
+    "description": "Subtitle on home section"
+  },
   "homeCta": "Commencer",
-  "teamTitle": "Notre Équipe",
+  "@homeCta": {
+    "description": "Call to action button text"
+  },
+  "teamTitle": "Notre équipe",
+  "@teamTitle": {
+    "description": "Team section title"
+  },
   "teamCeo": "PDG et Fondateur",
-  "teamCto": "Directeur Technique",
-  "teamLead": "Développeur Principal",
-  "pricingTitle": "Plans Tarifaires",
+  "@teamCeo": {
+    "description": "CEO job title"
+  },
+  "teamCto": "CTO",
+  "@teamCto": {
+    "description": "CTO job title"
+  },
+  "teamLead": "Développeur principal",
+  "@teamLead": {
+    "description": "Lead Developer job title"
+  },
+  "pricingTitle": "Forfaits tarifaires",
+  "@pricingTitle": {
+    "description": "Pricing section title"
+  },
   "pricingBasic": "Basique",
+  "@pricingBasic": {
+    "description": "Basic pricing plan name"
+  },
   "pricingPro": "Pro",
+  "@pricingPro": {
+    "description": "Pro pricing plan name"
+  },
   "pricingEnterprise": "Entreprise",
+  "@pricingEnterprise": {
+    "description": "Enterprise pricing plan name"
+  },
   "pricingMonth": "/mois",
-  "pricingChoose": "Choisir le Plan",
-  "contactTitle": "Nous Contacter",
-  "contactEmail": "Email",
+  "@pricingMonth": {
+    "description": "Per month pricing suffix"
+  },
+  "pricingChoose": "Choisir un plan",
+  "@pricingChoose": {
+    "description": "Choose plan button text"
+  },
+  "contactTitle": "Contactez-nous",
+  "@contactTitle": {
+    "description": "Contact section title"
+  },
+  "contactEmail": "Courriel",
+  "@contactEmail": {
+    "description": "Email field label"
+  },
   "contactMessage": "Message",
+  "@contactMessage": {
+    "description": "Message field label"
+  },
   "contactSend": "Envoyer",
-  "contactSuccess": "Message envoyé avec succès!",
+  "@contactSend": {
+    "description": "Send button text"
+  },
+  "contactSuccess": "Message envoyé avec succès !",
+  "@contactSuccess": {
+    "description": "Success message after form submission"
+  },
   "contactEmailHint": "votre@email.com",
-  "contactMessageHint": "Votre message ici..."
+  "@contactEmailHint": {
+    "description": "Email field hint text"
+  },
+  "contactMessageHint": "Votre message ici...",
+  "@contactMessageHint": {
+    "description": "Message field hint text"
+  },
+  "contactGreeting": "Bonjour ! J'espère que vous vous débrouillez bien",
+  "@contactGreetingHint": {
+    "description": "Greeting hint text"
+  }
 }
