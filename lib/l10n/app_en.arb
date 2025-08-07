@@ -123,5 +123,10 @@
   "contactMessageHint": "Your message here...",
   "@contactMessageHint": {
     "description": "Message field hint text"
+  },
+
+  "contactGreeting": "Hello you! Hope you are doing well",
+  "@contactGreetingHint": {
+    "description": "Greeting hint text"
   }
 }
