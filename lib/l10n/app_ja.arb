@@ -1,106 +1,106 @@
 {
-  "@@locale": "ar",
-  "appTitle": "تطبيق متعدد اللغات",
+  "@@locale": "ja",
+  "appTitle": "多言語Flutter アプリ",
   "@appTitle": {
     "description": "The title of the application"
   },
-  "navigationHome": "المنزل",
+  "navigationHome": "ホーム",
   "@navigationHome": {
     "description": "Navigation menu item for home"
   },
-  "navigationTeam": "فريقنا",
+  "navigationTeam": "私たちのチーム",
   "@navigationTeam": {
     "description": "Navigation menu item for team"
   },
-  "navigationPricing": "التسعير",
+  "navigationPricing": "価格",
   "@navigationPricing": {
     "description": "Navigation menu item for pricing"
   },
-  "navigationContacts": "جهات",
+  "navigationContacts": "連絡先",
   "@navigationContacts": {
     "description": "Navigation menu item for contacts"
   },
-  "homeTitle": "مرحبا بكم في شركتنا",
+  "homeTitle": "当社へようこそ",
   "@homeTitle": {
     "description": "Main title on home section"
   },
-  "homeSubtitle": "نحن نقدم خدمات وحلول استثنائية لمساعدة عملك التجاري على النمو والنجاح في السوق التنافسية اليوم.",
+  "homeSubtitle": "当社は、お客様のビジネスが今日の競争市場で成長し、成功するのを助ける優れたサービスとソリューションを提供します。",
   "@homeSubtitle": {
     "description": "Subtitle on home section"
   },
-  "homeCta": "ابدأ",
+  "homeCta": "はじめよう",
   "@homeCta": {
     "description": "Call to action button text"
   },
-  "teamTitle": "فريقنا",
+  "teamTitle": "私たちのチーム",
   "@teamTitle": {
     "description": "Team section title"
   },
-  "teamCeo": "المدير التنفيذي والمؤسس",
+  "teamCeo": "CEO & ファウンダー",
   "@teamCeo": {
     "description": "CEO job title"
   },
-  "teamCto": "CTO",
+  "teamCto": "最高技術責任者",
   "@teamCto": {
     "description": "CTO job title"
   },
-  "teamLead": "المطور الرئيسي",
+  "teamLead": "リード開発者",
   "@teamLead": {
     "description": "Lead Developer job title"
   },
-  "pricingTitle": "خطط الأسعار",
+  "pricingTitle": "料金プラン",
   "@pricingTitle": {
     "description": "Pricing section title"
   },
-  "pricingBasic": "اساسي",
+  "pricingBasic": "基本",
   "@pricingBasic": {
     "description": "Basic pricing plan name"
   },
-  "pricingPro": "Pro",
+  "pricingPro": "プロ",
   "@pricingPro": {
     "description": "Pro pricing plan name"
   },
-  "pricingEnterprise": "المؤسسة",
+  "pricingEnterprise": "エンタープライズ",
   "@pricingEnterprise": {
     "description": "Enterprise pricing plan name"
   },
-  "pricingMonth": "/ شهر",
+  "pricingMonth": "/月",
   "@pricingMonth": {
     "description": "Per month pricing suffix"
   },
-  "pricingChoose": "اختر خطة",
+  "pricingChoose": "プランを選択",
   "@pricingChoose": {
     "description": "Choose plan button text"
   },
-  "contactTitle": "اتصل بنا",
+  "contactTitle": "お問い合わせ",
   "@contactTitle": {
     "description": "Contact section title"
   },
-  "contactEmail": "البريد الإلكتروني",
+  "contactEmail": "Eメールアドレス",
   "@contactEmail": {
     "description": "Email field label"
   },
-  "contactMessage": "رسالة",
+  "contactMessage": "メッセージ",
   "@contactMessage": {
     "description": "Message field label"
   },
-  "contactSend": "إرسال",
+  "contactSend": "送信",
   "@contactSend": {
     "description": "Send button text"
   },
-  "contactSuccess": "تم إرسال الرسالة بنجاح!",
+  "contactSuccess": "メッセージの送信に成功しました！",
   "@contactSuccess": {
     "description": "Success message after form submission"
   },
-  "contactEmailHint": "خاصتك @email.com",
+  "contactEmailHint": "your@email.com",
   "@contactEmailHint": {
     "description": "Email field hint text"
   },
-  "contactMessageHint": "رسالتك هنا...",
+  "contactMessageHint": "メッセージはこちら...",
   "@contactMessageHint": {
     "description": "Message field hint text"
   },
-  "contactGreeting": "مرحبًا! أتمنى أن تقوم بعمل جيد",
+  "contactGreeting": "こんにちは！うまくいっていることを願っています。",
   "@contactGreetingHint": {
     "description": "Greeting hint text"
   }

@@ -1,28 +1,107 @@
 {
-  "@@locale": "es",
-  "appTitle": "Aplicación Flutter Multilingüe",
+  "@@locale": "es-ES",
+  "appTitle": "Aplicación de Flutter multilingüe",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
   "navigationHome": "Inicio",
-  "navigationTeam": "Nuestro Equipo",
+  "@navigationHome": {
+    "description": "Navigation menu item for home"
+  },
+  "navigationTeam": "Nuestro equipo",
+  "@navigationTeam": {
+    "description": "Navigation menu item for team"
+  },
   "navigationPricing": "Precios",
-  "navigationContacts": "Contacto",
-  "homeTitle": "Bienvenido a Nuestra Empresa",
+  "@navigationPricing": {
+    "description": "Navigation menu item for pricing"
+  },
+  "navigationContacts": "Contactos",
+  "@navigationContacts": {
+    "description": "Navigation menu item for contacts"
+  },
+  "homeTitle": "Bienvenido a nuestra empresa",
+  "@homeTitle": {
+    "description": "Main title on home section"
+  },
   "homeSubtitle": "Proporcionamos servicios y soluciones excepcionales para ayudar a su negocio a crecer y tener éxito en el mercado competitivo de hoy.",
-  "homeCta": "Comenzar",
-  "teamTitle": "Nuestro Equipo",
-  "teamCeo": "CEO y Fundador",
-  "teamCto": "Director Técnico",
-  "teamLead": "Desarrollador Principal",
-  "pricingTitle": "Planes de Precios",
+  "@homeSubtitle": {
+    "description": "Subtitle on home section"
+  },
+  "homeCta": "Empezar",
+  "@homeCta": {
+    "description": "Call to action button text"
+  },
+  "teamTitle": "Nuestro equipo",
+  "@teamTitle": {
+    "description": "Team section title"
+  },
+  "teamCeo": "CEO & Fundador",
+  "@teamCeo": {
+    "description": "CEO job title"
+  },
+  "teamCto": "CTO",
+  "@teamCto": {
+    "description": "CTO job title"
+  },
+  "teamLead": "Desarrollador jefe",
+  "@teamLead": {
+    "description": "Lead Developer job title"
+  },
+  "pricingTitle": "Planes de precios",
+  "@pricingTitle": {
+    "description": "Pricing section title"
+  },
   "pricingBasic": "Básico",
+  "@pricingBasic": {
+    "description": "Basic pricing plan name"
+  },
   "pricingPro": "Pro",
-  "pricingEnterprise": "Empresarial",
+  "@pricingPro": {
+    "description": "Pro pricing plan name"
+  },
+  "pricingEnterprise": "Empresa",
+  "@pricingEnterprise": {
+    "description": "Enterprise pricing plan name"
+  },
   "pricingMonth": "/mes",
-  "pricingChoose": "Elegir Plan",
-  "contactTitle": "Contáctanos",
-  "contactEmail": "Email",
+  "@pricingMonth": {
+    "description": "Per month pricing suffix"
+  },
+  "pricingChoose": "Elegir plan",
+  "@pricingChoose": {
+    "description": "Choose plan button text"
+  },
+  "contactTitle": "Contáctenos",
+  "@contactTitle": {
+    "description": "Contact section title"
+  },
+  "contactEmail": "E-mail",
+  "@contactEmail": {
+    "description": "Email field label"
+  },
   "contactMessage": "Mensaje",
+  "@contactMessage": {
+    "description": "Message field label"
+  },
   "contactSend": "Enviar",
-  "contactSuccess": "¡Mensaje enviado exitosamente!",
+  "@contactSend": {
+    "description": "Send button text"
+  },
+  "contactSuccess": "¡Mensaje enviado con éxito!",
+  "@contactSuccess": {
+    "description": "Success message after form submission"
+  },
   "contactEmailHint": "tu@email.com",
-  "contactMessageHint": "Tu mensaje aquí..."
+  "@contactEmailHint": {
+    "description": "Email field hint text"
+  },
+  "contactMessageHint": "Su mensaje aquí...",
+  "@contactMessageHint": {
+    "description": "Message field hint text"
+  },
+  "contactGreeting": "¡Hola! Espero que lo esté haciendo bien",
+  "@contactGreetingHint": {
+    "description": "Greeting hint text"
+  }
 }
